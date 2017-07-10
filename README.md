@@ -1,4 +1,5 @@
-# demo
+# 扫描二维码查看
+![Image](https://github.com/Anglay/vuePageTransition/blob/master/src/assets/erbar_img.png)
 
 > A Vue.js project
 
